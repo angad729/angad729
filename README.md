@@ -29,6 +29,7 @@ Old but shipped:
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -90,6 +91,7 @@ Old but shipped:
 ## 💡 Random Facts
 
 - PM who writes code on weekends, and code that writes notes on weekdays
+- Python + Flask is the combo I keep coming back to
 - Obsidian vault is bigger than some of the repos on this profile
 - Will happily argue that the kiosk is the most underrated piece of UX in a traveller's day
 - Coffee is non-negotiable; Melbourne made sure of that
