@@ -33,6 +33,12 @@ Old but shipped:
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
+**Data**
+<p>
+  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+</p>
+
 **AI & Local Tools**
 <p>
   <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
@@ -57,6 +63,14 @@ Old but shipped:
 - **Tinkering with local-first AI**. Whisper, Ollama, small agents that live on my laptop.
 - **Prototyping with Claude Code**. PM who codes just enough to get dangerous.
 - **Reading**. Product writing, systems thinking, anything on how good teams actually decide.
+
+---
+
+## 🎓 Certifications
+
+- **AI for Product Certification (AIC)™** - Product School, 2024
+- **Advanced Product Management** - RMIT, 2023
+- **Product Management Fundamentals** - Brainmates, 2021
 
 ---
 
