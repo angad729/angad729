@@ -12,7 +12,7 @@ I work on self-service and automation for airports: the kiosks, bag drops, and b
 
 ## Current Projects
 
-- 🧭 **[deliberate](https://github.com/angad729/deliberate)**. Engineering discipline for AI harnesses. A drop-in skill library for LLM coding agents.
+- 🧭 **[deliberate](https://github.com/angad729/deliberate)** ([deliberate.work](https://www.deliberate.work/)). Engineering discipline for AI harnesses. A drop-in skill library for LLM coding agents.
 - 🧚 **[navi](https://github.com/angad729/navi)**. Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
 
 ---
