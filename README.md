@@ -13,7 +13,7 @@ I work on self-service and automation for airports: the kiosks, bag drops, and b
 ## Current Projects
 
 - 🧭 **[deliberate](https://www.deliberate.work/)**. Engineering discipline for AI harnesses. A drop-in skill library for LLM coding agents.
-- 🧚 **[navi](https://github.com/angad729/navi)**. Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
+- 🧚 **[navi](https://github.com/angad-kandhari/navi)**. Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
 
 ---
 
@@ -21,7 +21,7 @@ I work on self-service and automation for airports: the kiosks, bag drops, and b
 
 Old but shipped:
 
-- 📄 **[dtaToCsv](https://github.com/angad729/dtaToCsv)**. Convert Stata `.dta` files to CSV. Built for a research gig years ago.
+- 📄 **[dtaToCsv](https://github.com/angad-kandhari/dtaToCsv)**. Convert Stata `.dta` files to CSV. Built for a research gig years ago.
 
 ---
 
