@@ -12,7 +12,7 @@ I work on self-service and automation for airports: the kiosks, bag drops, and b
 
 ## Current Projects
 
-- 🥁 **[drumroll](https://usedrumroll.com/)**. Changelogs from Jira fix versions, Bitbucket tags, or Markdown in your repo. Publish at `{slug}.usedrumroll.com` or embed anywhere with a 5 KB script tag.
+- 🥁 **[drumroll](https://usedrumroll.com/)**. Public changelogs without the busywork. Pulls releases from Jira fix versions, Bitbucket tags, or Markdown in your repo, then publishes at `{slug}.usedrumroll.com` or embeds anywhere with a 5 KB script tag.
 - 🧭 **[deliberate](https://www.deliberate.work/)**. Engineering discipline for AI harnesses. A drop-in skill library for LLM coding agents.
 - 🧚 **[navi](https://github.com/angad-kandhari/navi)**. Hotkey-triggered speech-to-text notes. Local Whisper transcription, Ollama cleanup, straight into Obsidian. No cloud, no subscription.
 
